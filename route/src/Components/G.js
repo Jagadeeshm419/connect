@@ -1,0 +1,1 @@
+export const getApi = 'http://localhost:4000/api/getapi';

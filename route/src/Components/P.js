@@ -1,0 +1,1 @@
+export const postApi = 'http://localhost:4000/api/postapi';
